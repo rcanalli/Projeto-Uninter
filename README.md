@@ -1,5 +1,5 @@
 OBS:
-Como as dependencias do NPM contem muitas pastas,nao foram inclusas no repositório sendo necessario instala-las via cmd.
+Como as dependencias do NPM contem muitas pastas,não foram inclusas no repositório sendo necessário instala-las via cmd.
 para executar o projeto em seu computador será necessário efetuar o download no repositório do GitHub.
 https://github.com/rcanalli/Projeto-Uninter.git
 --
